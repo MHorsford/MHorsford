@@ -1,11 +1,11 @@
-## Hi, I'm Marcos Horsford! ![](https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/1x)
+## Hi, I'm Marcos Horsford! 
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosHorsford&show_icons=true&theme=merko)
 
 
 #
-## **Skills** ![](https://cdn.betterttv.net/emote/5faebecf2d853564472d58e2/1x)
+## **Skills** 
 
 <div style="display: inline_black">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 
 #
-## **Contacts** ![](https://cdn.betterttv.net/emote/5af454b657376e68acb7512a/1x)
+## **Contacts** 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcoshorsford/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
