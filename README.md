@@ -1,7 +1,11 @@
 ## Hi, I'm Marcos Horsford! 
 <br/>
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=MarcosHorsford&show_icons=true&theme=merko](https://camo.githubusercontent.com/44ad9eba8adee378c268510dcc2b2a98663ff4c51128ee79c7b06e7610d2fe40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7675652d6461726b))
+
+[![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 #
