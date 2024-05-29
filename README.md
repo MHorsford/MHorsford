@@ -3,7 +3,7 @@
 
 
 ![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/0-profile-details.svg)
-![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/3-stats.svg)    ![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/3-stats.svg)<span style="margin-left: 10px;"></span>![](https://raw.githubusercontent.com/MHorsford/GitHubThemes/master/profile-summary-card-output/merko/1-repos-per-language.svg)
 
 
 
